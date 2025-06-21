@@ -1,0 +1,12 @@
+## Brief Introduction About Myself
+
+My name is Julia Okpara. I am currently a student studying Hospitality and Tourism Management. I have a passion for technology and continuous learning, which is why I joined this GitHub training program. I believe that understanding version control systems like Git and GitHub will give me a strong foundation in collaborative projects and software development principles.
+
+I am excited to grow in this journey and use these skills for future opportunities, whether in tourism, business, or tech. This marks the beginning of my tech journey, and I look forward to mastering even more tools.
+
+
+
+
+
+
+Added introduction file
